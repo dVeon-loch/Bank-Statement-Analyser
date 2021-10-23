@@ -3,7 +3,7 @@ import pandas
 import pdfplumber
 
 
-class ParserDiscovery(StatementParser):
+class ParserStandardBank(StatementParser):
     def get_info(self):
         pass
 
