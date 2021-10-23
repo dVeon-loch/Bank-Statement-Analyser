@@ -1,6 +1,4 @@
 from parsing.statement_parser import StatementParser
-import pandas
-import pdfplumber
 
 
 class ParserDiscovery(StatementParser):
