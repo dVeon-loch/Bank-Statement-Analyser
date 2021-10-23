@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/parsing/banks/capitec/account_statement.pdf
+/.idea
+*.pdf
